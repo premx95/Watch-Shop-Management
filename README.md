@@ -28,7 +28,10 @@ A **feature-rich offline Python software** designed to manage a watch shop's **S
 
 ## 📷 Screenshots
 
-*(Add UI screenshots here if available)*
+![image](https://github.com/user-attachments/assets/0e8c81d8-bd4c-44f1-a052-c7aeef73b5f5)
+![image](https://github.com/user-attachments/assets/88f29e39-6d8d-454d-a144-4a1d02603d3e)
+![image](https://github.com/user-attachments/assets/56c4f895-ee9b-4676-a8d1-c45576e24c8d)
+
 
 ## 🚀 How to Run the Project
 
@@ -39,7 +42,7 @@ A **feature-rich offline Python software** designed to manage a watch shop's **S
    ```
 2. **Install dependencies**
    ```bash
-   pip install pandas openpyxl fpdf pywin32
+   pip install sqlite3 tkinter messagebox ttk datetime temfile  pywin32
    ```
 3. **Run the script**
    ```bash
@@ -60,7 +63,7 @@ If you'd like to improve this project, feel free to fork the repo and submit a p
 
 ## 📧 Contact
 
-For any questions, reach out at: `your.email@example.com`
+For any questions, reach out at: `Premkumar11x@gmail.com`
 
 **GitHub Repository:** [github.com/yourusername/Watch-Shop-Management](https://github.com/yourusername/Watch-Shop-Management)
 
