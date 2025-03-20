@@ -65,5 +65,5 @@ If you'd like to improve this project, feel free to fork the repo and submit a p
 
 For any questions, reach out at: `Premkumar11x@gmail.com`
 
-**GitHub Repository:** [github.com/yourusername/Watch-Shop-Management](https://github.com/yourusername/Watch-Shop-Management)
+**GitHub Repository:** [github.com/premx95/Watch-Shop-Management](https://github.com/premx95/Watch-Shop-Management)
 
